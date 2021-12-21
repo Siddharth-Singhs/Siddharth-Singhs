@@ -33,7 +33,7 @@ I'm currently working as a software developer at Expedia Group. Mostly my weeken
 If you ever need a chess opponent then you can ping me at [chess.com](https://www.chess.com/member/great_toad_sage).
 
 💼 Any freelance work? do connect,
-- [email](mailto:siddharthsingh16aug@gmail.com) 
+- [Email](mailto:siddharthsingh16aug@gmail.com) 
 - [Fiverr](https://www.fiverr.com/siddharthsingh6) :)
 
 
@@ -55,7 +55,7 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **My Todo For 2022:**
 <!-- TODO-IST:START -->                
--  🔭  Completed pending project (hopwithme)                           ⬜
+-  🔭  Complete pending projects.                           ⬜
 -  🌱  Increase public reach and build some useful tools for public.   ⬜
 -  🤔  Improve Data Structure and Algorithms                           ⬜                                                      
 
