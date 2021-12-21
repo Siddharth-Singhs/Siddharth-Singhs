@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Siddharth's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Siddharth-Singhs.Siddharth-Singhs)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Siddharth-Singhs.Siddharth-Singhs&left_color=red, right_color=green)
 
 <br/>
 
