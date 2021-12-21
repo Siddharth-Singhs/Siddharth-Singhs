@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![vistiors](https://visitor-badge.glitch.me/badge?page_id=Siddharth-Singhs.Siddharth-Singhs)
+<a href="https://twitter.com/Sid_knight_dark">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/siddharth-singh-67261314a/">
+  <img align="left" alt="Abhishek's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=Siddharth-Singhs.Siddharth-Singhs)
+
