@@ -55,9 +55,11 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **My Todo For 2022:**
 <!-- TODO-IST:START -->                
-🔭  Completed pending project (hopwithme)                           ⬜
-🌱  Increase public reach and build some useful tools for public.   ⬜
-🤔  Improve Data Structure and Algorithms                           ⬜
+-  🔭  Completed pending project (hopwithme)                           ⬜
+-  🌱  Increase public reach and build some useful tools for public.   ⬜
+-  🤔  Improve Data Structure and Algorithms                           ⬜                                                      
+
+
  
 <!-- TODO-IST:END -->
 
