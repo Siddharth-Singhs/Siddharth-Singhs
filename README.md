@@ -22,8 +22,9 @@ Here are some ideas to get you started:
   <img align="left" alt="Siddharth's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Siddharth-Singhs.Siddharth-Singhs)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Siddharth-Singhs.Siddharth-Singhs)
 
+<br/>
 
 Hi, I'm [Siddharth Singh](https://siddharth-singhs.github.io/).
 I'm currently working as a software developer at Expedia Group. Mostly my weekend revolves around reading and working on side projects. Earlier I used to work as a freelancer at [Fiverr](https://www.fiverr.com/siddharthsingh6) in my free time. But currently, I am working on my side project in my free time. 
