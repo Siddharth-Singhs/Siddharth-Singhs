@@ -50,10 +50,10 @@ If you ever need a chess opponent then you can ping me at [chess.com](https://ww
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<!-- If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/siddharthsinghs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
+-->
 🚧 **My Todo For 2022:**
 <!-- TODO-IST:START -->                
 -  🔭  Complete pending projects.                           ⬜
