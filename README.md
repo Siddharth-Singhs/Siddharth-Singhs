@@ -54,9 +54,9 @@ If you ever need a chess opponent then you can ping me at [chess.com](https://ww
 
 <a href="https://www.buymeacoffee.com/siddharthsinghs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 -->
-🚧 **My Todo For 2022:**
+🚧 **My Todo For 2023:**
 <!-- TODO-IST:START -->                
--  🔭  Complete pending projects.                           ⬜
+-  🔭  Build something cool realted to finance management.             ⬜
 -  🌱  Increase public reach and build some useful tools for public.   ⬜
 -  🤔  Improve Data Structure and Algorithms                           ⬜                                                      
 
