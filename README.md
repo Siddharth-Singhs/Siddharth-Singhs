@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://twitter.com/Sid_knight_dark">
-  <img align="left" alt="Siddharth Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Siddharth Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/Siddharth-Singhs/assets/master/company/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/siddharth-singh-67261314a/">
-  <img align="left" alt="Siddharth's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Siddharth's LinkedIn" width="22px" src="https://raw.githubusercontent.com/Siddharth-Singhs/assets/master/company/linkedin.svg" />
 </a>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Siddharth-Singhs.Siddharth-Singhs)
